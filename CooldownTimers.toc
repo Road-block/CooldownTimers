@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: CooldownTimers
+## Author: Sorren of Bleeding Hollow modified by Krsnik
+## Version: 1.2
+## Notes: Creates bars that cownt down how long you have left until the Cooldown finishes.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: cdtvars
+CooldownTimers.xml
+CooldownTimersForm.xml
+CooldownTimersGroupsForm.xml
